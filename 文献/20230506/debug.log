@@ -1,0 +1,7 @@
+[0506/112953.241:ERROR:main_delegate.cc(707)] Could not load cef_100_percent.pak
+[0506/112953.241:ERROR:main_delegate.cc(716)] Could not load cef_200_percent.pak
+[0506/112953.241:ERROR:main_delegate.cc(726)] Could not load cef_extensions.pak
+[0506/112956.859:INFO:CONSOLE(517)] "[object XMLDocument]", source: file:///D:/%E8%BD%AF%E4%BB%B6/CAJviewer/CAJViewer%208.1/Face/catalogue/js/catalogue.js (517)
+[0506/112956.859:INFO:CONSOLE(540)] "[object HTMLCollection]", source: file:///D:/%E8%BD%AF%E4%BB%B6/CAJviewer/CAJViewer%208.1/Face/catalogue/js/catalogue.js (540)
+[0506/112957.355:INFO:CONSOLE(14)] "[object Object]", source: file:///C:/Users/19746/AppData/Local/TTKN/HOME/js/FavorateGroupOperator.js (14)
+[0506/112957.361:INFO:CONSOLE(54)] "[object Object]", source: file:///C:/Users/19746/AppData/Local/TTKN/HOME/js/collectfileOperator.js (54)
